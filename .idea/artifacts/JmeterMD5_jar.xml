@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JmeterMD5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JmeterMD5_jar</output-path>
+    <root id="archive" name="JmeterMD5.jar">
+      <element id="module-output" name="JmeterMD5" />
+    </root>
+  </artifact>
+</component>
